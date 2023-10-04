@@ -1,0 +1,6 @@
+{
+    "label": "Build on PC startup",
+    "type": "shell",
+    "command": "python face.py",
+    "problemMatcher": []
+}
